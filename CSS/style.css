@@ -1,0 +1,24 @@
+.random-items img{
+width: 100px;
+}
+
+.panda-card-shoe{
+    border: none;
+}
+
+.panda-card-shoe-foot{
+    background-color: white;
+    border: none;
+}
+
+.panda-card-shoe-foot .btn{
+    margin-bottom: 1rem;
+    background-color: #FF3786;
+    border: none;
+    outline: none;
+}
+
+.panda-slide .carousel-item{
+    border-radius: 1em;
+    background-color: #FEEAE9;
+}
